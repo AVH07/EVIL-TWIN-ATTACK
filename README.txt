@@ -1,5 +1,5 @@
 ATAQUE EVIL TWIN CON LA HERRAMIENTAS AIRCRACK-NG Y FLUXION.
-*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
 
 Requisitos para el ataque
 *Antena que acepte modo monitor
@@ -49,7 +49,7 @@ numeros
 
 
 Dato Y nombres presentes en aircrack-ng que son muy importates.
-*****************************************************************************************************************************************************************************
+*******************************************************************************************************************
 
 airodump-ng 
 BSSID: corresponde a la dirección MAC del punto de acceso
@@ -69,7 +69,7 @@ ENC: indica si existe un algoritmo de cifrado en uso; OPN: sin cifrado
 ESSID: este campo es conocido generalmente como SSID.
 
 STATION: dirección MAC de cada estación asociada (clientes o usuarios).
-********************************************************************************************************************************************************************************
+****************************************************************************************************************
 
 aireplay-ng 
 Ataque 0: desautenticacion
